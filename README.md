@@ -2,7 +2,7 @@
 
 This repository contais several Excel files created to facilitate the creation of executive presentations and consistency check routines.
 
-## Files Description
+## Files' Descriptions
 
 #### 1. Dados do Essbase - SUDAM.xlsx
 Contains VBA code used to extract data from company's BI Cube using Essbase interface. It automates data retrieval for several spreadsheets.
